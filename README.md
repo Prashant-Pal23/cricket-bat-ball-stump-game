@@ -48,7 +48,7 @@ cricket-game/
 
 ## 📸 Screenshot
 
-<img src="screenshot.png" alt="Cricket Game Screenshot" width="500"/>
+<img src="Screenshot.png" alt="Cricket Game Screenshot" width="500"/>
 
 ---
 
