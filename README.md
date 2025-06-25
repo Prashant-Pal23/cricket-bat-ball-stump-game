@@ -33,14 +33,22 @@ A fun and interactive cricket-themed game built with **HTML**, **CSS**, and **Ja
 ---
 
 ## 📁 Project Structure
-cricket-bat-ball-stump-game/
-├── index.html # Main HTML page
-├── style.css # Styles and layout
-├── bat.png # Bat image
-├── ball.png # Ball image
-├── stump.png # Stump image
-└── README.md # This file
 
+cricket-game/
+├── ball.png # Ball image
+├── bat.png # Bat image
+├── stump.png # Stump image
+├── index.html # Main HTML file
+├── style.css # Styling
+├── Screenshot.png # Game screenshot
+├── LICENSE # License file
+└── README.md # Project documentation
+
+---
+
+## 📸 Screenshot
+
+<img src="screenshot.png" alt="Cricket Game Screenshot" width="500"/>
 
 ---
 
